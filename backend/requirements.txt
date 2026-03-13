@@ -1,0 +1,12 @@
+python-binance==1.0.19
+pandas==2.2.2
+numpy==1.26.4
+ta==0.11.0
+anthropic==0.39.0
+python-telegram-bot==21.6
+fastapi==0.115.0
+uvicorn==0.31.0
+websockets==13.0
+python-dotenv==1.0.1
+httpx==0.27.2
+aiohttp==3.10.5
